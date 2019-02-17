@@ -1,4 +1,4 @@
-a# Dynamic ORMs
+# Dynamic ORMs
 
 ## Objectives
 
